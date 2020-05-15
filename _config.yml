@@ -1,4 +1,0 @@
-name: Kyle Woodruff
-markdown: kramdown
-theme: jekyll-theme-cayman
-permalink: /blog/:year/:month/:day/:title
